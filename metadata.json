@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Pro Studio",
+  "description": "High-fidelity AI image generation using Gemini Nano Banana Pro (gemini-3-pro-image-preview). Features 1K/2K/4K resolution options and aspect ratio control.",
+  "requestFramePermissions": []
+}
